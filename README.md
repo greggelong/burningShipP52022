@@ -15,4 +15,4 @@ and see one step closer. \
 in black and white the ship is very spooky
 
 
-[See the site!](https://greggelong.github.io/burnShip/)
+[See the site!](https://greggelong.github.io/burningShipP52022/)
